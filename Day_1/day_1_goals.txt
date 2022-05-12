@@ -1,0 +1,5 @@
+#Goals for Day 1
+
+- Understanding how variables are used in python.
+- Using the input function
+- printing results to the console
