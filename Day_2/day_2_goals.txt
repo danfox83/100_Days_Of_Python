@@ -1,1 +1,6 @@
+#Goals for Day 2
 
+- Learning about different data types and conversions
+- Using floats, ints, and strings
+- using simple if, elif, and else blocks
+- using f strings to add stored variable data to text elements
